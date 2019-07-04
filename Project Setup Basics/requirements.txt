@@ -1,0 +1,9 @@
+pytest
+pylint
+jupyter
+pytest-cov
+pandas
+numpy
+hello
+
+
